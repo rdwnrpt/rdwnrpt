@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🎓 Certifications
+* **Google Cloud Certified - Professional Data Engineer** (Issued: 2024/05)
+    * [Link to verification badge](https://www.credly.com/badges/9d3dfdb9-5fe0-42bc-bb1e-ae0e5105d236)
 
-<!--
-**rdwnrpt/rdwnrpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🛠️ Tech Stack & Expertise
+* **Cloud Platforms:** GCP (Google Cloud Platform), Cloudera
+* **Data Warehousing:** Google BigQuery, Apache Hive, Apache Impala
+* **Stream/Ingestion:** Apache Kafka, Apache NiFi, DLT (Data Load Tool)
+* **Data Processing:** Apache Spark, Python (Pandas, PySpark), DBT (Data Build Tool)
+* **Data Orchestrator:** Oozie, Dagster
+* **Visualization:** Power BI, Tableau
+* **Programming Languages:** Python, SQL
